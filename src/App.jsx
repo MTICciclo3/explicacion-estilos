@@ -1,0 +1,11 @@
+import "./styles/styles.scss";
+
+function App() {
+  return (
+    <div className="App">
+      <div className="fondoNegro"> Este es un fondo negro pero rojo</div>
+    </div>
+  );
+}
+
+export default App;
