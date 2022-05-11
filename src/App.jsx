@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <form>
-      <input type="email" />
+      <input type="email" className="estilooFormulario"/>
       <input type="password" />
       <input type="text" />
       <input type="number" />
